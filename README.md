@@ -4,7 +4,7 @@ This is a repositiory about MS5837 sensor running under MCU@stm32f1 serials.
 ## Step 1
 Create a MDK Project based on standard libraries.
 ## Step 2
-Git clone this repository and add the HARDWARE folder and main.cpp file(which is under content of /USER) to your MDK project.
+Git clone this repository and add the HARDWARE folder and main.cpp file(which is under the path of "/USER") to your MDK project.
 ## Step 3
 Configure your MDK project to suit these adding files and translate and build your project.
 ## Step 4
