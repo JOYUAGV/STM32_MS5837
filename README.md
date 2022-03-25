@@ -11,3 +11,4 @@ Configure your MDK project to suit these adding files and translate and build yo
 Congratulations! You have ported the code successfully! Get ready to debugging!
 ## PS
 This repository has been validated on MCU@stm32f103rct6.
+For more details, please refer https://editor.csdn.net/md/?articleId=123719105.
